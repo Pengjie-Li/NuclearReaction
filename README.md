@@ -23,4 +23,4 @@
 * [核反应种类](https://github.com/Snailclimb/Java-Guide/blob/master/Java相关/Java基础知识.md)
 
 ## 散射理论
-* [中心场散射](https://github.com/Pengjie-Li/NuclearReaction/1散射理论/1_1中心场散射.md)
+* [中心场散射](https://github.com/Pengjie-Li/NuclearReaction/blob/master/1散射理论/1_1中心场散射.md)
